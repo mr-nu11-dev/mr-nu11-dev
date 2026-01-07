@@ -5,7 +5,7 @@
 ### 🤖 Aspiring Artificial Intelligence Student
 *Lifelong learner | Building and experimenting with technology*
 
-<img src="https://github-readme-stats.vercel.app/api?username=mr-nu11-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mr-nu11-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
 
 <br/>
 
